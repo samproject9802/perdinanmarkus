@@ -1,0 +1,60 @@
+[16-Jun-2021 13:34:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:34:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php on line 7
+[16-Jun-2021 13:34:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:34:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php on line 21
+[16-Jun-2021 13:44:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:44:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:44:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php on line 7
+[16-Jun-2021 13:44:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php on line 21
+[16-Jun-2021 13:45:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:45:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php on line 7
+[16-Jun-2021 13:45:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:45:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php on line 21
+[16-Jun-2021 13:46:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:46:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php on line 7
+[16-Jun-2021 13:46:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:46:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php on line 21
+[16-Jun-2021 13:46:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:46:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php on line 7
+[16-Jun-2021 13:46:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:46:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php on line 21
+[16-Jun-2021 13:48:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:48:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/getdatapelanggan.php on line 7
+[16-Jun-2021 13:48:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:48:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/library/php/admin/inputdataproduk.php on line 21

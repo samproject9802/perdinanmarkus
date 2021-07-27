@@ -1,0 +1,54 @@
+[16-Jun-2021 13:35:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:35:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18
+[16-Jun-2021 13:35:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:35:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18
+[16-Jun-2021 13:37:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:37:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18
+[16-Jun-2021 13:37:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:37:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18
+[16-Jun-2021 13:37:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:37:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18
+[16-Jun-2021 13:45:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:45:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18
+[16-Jun-2021 13:45:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:45:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18
+[16-Jun-2021 13:48:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:48:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18
+[16-Jun-2021 13:49:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/adry2296/public_html/bubukkopilintong/library/php/koneksi.php on line 8
+[16-Jun-2021 13:49:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php:18
+Stack trace:
+#0 /home/adry2296/public_html/bubukkopilintong/index.php(136): include_once()
+#1 {main}
+  thrown in /home/adry2296/public_html/bubukkopilintong/content/pemesanan.php on line 18

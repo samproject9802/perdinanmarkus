@@ -1,0 +1,140 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.card {
+    background-color: white;
+    border: 0px solid white;
+}
+
+.card-header {
+    background-color: white;
+    border: 0px solid white;
+}
+
+.card-footer {
+    border: 0;
+    color: white;
+}
+
+.banner-custom {
+    width: 100%;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-family: myFirstFont;
+}
+
+.custom-navbar .nav-item a {
+    color: white;
+    font-size: 13pt;
+}
+
+.custom-navbar .nav-item a:hover {
+    background-color: #a8ccf7;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.content-fill {
+    padding-top: 15px;
+    text-align: justify;
+    background-image: url(../assets/bg-body.jpg);
+    background-size: cover;
+}
+
+.content-tab,
+.content-fill h2,
+h3 {
+    font-weight: bold;
+    font-family: myFirstFont;
+    font-size: 30pt;
+    text-align: center;
+}
+
+.content-fill h5,
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.content-fill p {
+    color: black;
+    font-size: 15pt;
+}
+
+.content-fill h5 {
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+.content-fill pre {
+    line-height: 35px;
+    font-size: 15pt;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(../font/black_burger_rough.ttf);
+}
+
+.navbar {
+    justify-content: unset;
+}
+
+.list-group-item-action {
+    font-size: 12pt;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 12pt;
+    color: white;
+}
+
+.navbar-dark .navbar-nav :hover {
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+#example {
+    border: 1px solid black;
+}
+
+#tabledatapelanggan {
+    width: 100%;
+}
+
+.notify {
+    color: white;
+}
+
+@media print {
+    .card .card-header,
+    .card-footer {
+        display: none;
+    }
+    .card-body #formpemesanandiv {
+        display: none;
+    }
+    .card-body #btnPrintadm,
+    .dataTables_length label,
+    .dataTables_filter label,
+    .table #buktibayaradm,
+    .table #statusbayaradm,
+    .dataTables_info,
+    .paginate_button,
+    #menu-toggle {
+        display: none;
+    }
+    .container-fluid {
+        margin: 0;
+        padding: 0;
+    }
+    .content-tab h2 {
+        text-align: center;
+    }
+}
